@@ -1,4 +1,4 @@
-# Group Clashes by Distance – Navisworks Plugin
+# Group Clashes by Distance – Navisworks Plug-in
 
 ![Plugin Icon](icon.png)
 
