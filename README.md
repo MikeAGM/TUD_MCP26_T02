@@ -42,8 +42,8 @@ Clashes that have no neighbours within range are left as individual items.
 
 > Requires **Autodesk Navisworks Manage 2027** and **.NET Framework 4.8**.
 
-1. Download the latest release from the [Releases](../../releases) page.
-2. Copy `GroupClashesByDistance.dll` into:
+1. Download the latest release from the Releases page.
+2. Copy zip content into:
    ```
    C:\Program Files\Autodesk\Navisworks Manage 2027\Plugins\
    ```
